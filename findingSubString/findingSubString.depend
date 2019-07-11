@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561133832 source:d:\dailycodeproblem\findingsubstring\main.cpp
+	<iostream>
+	<string>
+

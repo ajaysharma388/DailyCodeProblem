@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561148777 source:d:\dailycodeproblem\vowelrecognistion\main.cpp
+	<iostream>
+	<string>
+

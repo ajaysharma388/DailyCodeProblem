@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561619977 source:d:\dailycodeproblem\primesieve1\main.cpp
+	<iostream>
+	<cmath>
+

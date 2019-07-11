@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561414602 source:d:\dailycodeproblem\movingknight\main.cpp
+	<iostream>
+	<iomanip>
+
